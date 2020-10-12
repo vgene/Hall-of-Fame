@@ -1,0 +1,1 @@
+ for((i = 2010; i <= 2011; ++i)) do wget http://www.informatik.uni-trier.de/~ley/db/conf/hpca/hpca$i.html; done

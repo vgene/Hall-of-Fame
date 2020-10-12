@@ -1,0 +1,2345 @@
+     45 Yale N. Patt
+     30 Wen-mei W. Hwu
+     30 Scott A. Mahlke
+     23 Onur Mutlu
+     19 Mateo Valero
+     18 Josep Torrellas
+     17 Trevor N. Mudge
+     17 Gurindar S. Sohi
+     17 Antonio Gonz&#225;lez
+     16 James E. Smith
+     15 Gabriel H. Loh
+     15 Babak Falsafi
+     14 Mahmut T. Kandemir
+     14 Dean M. Tullsen
+     13 Todd M. Austin
+     13 Stephen W. Keckler
+     13 Mikko H. Lipasti
+     13 Bogong Su
+     12 T. N. Vijaykumar
+     12 Rajiv Gupta
+     12 Matthew K. Farrens
+     12 John Paul Shen
+     12 Gary S. Tyson
+     12 Doug Burger
+     11 David I. August
+     11 Christos A. Papachristou
+     11 Brad Calder
+     11 Andreas Moshovos
+     10 Norman P. Jouppi
+     10 Michael S. Schlansker
+     10 Margaret Martonosi
+     10 Hyesoon Kim
+      9 Youfeng Wu
+      9 Vicki H. Allan
+      9 Thomas M. Conte
+      9 Mark D. Hill
+      9 Li-Shiuan Peh
+      9 Karthikeyan Sankaralingam
+      9 B. Ramakrishna Rau
+      8 Tor M. Aamodt
+      8 Sanjay J. Patel
+      8 Rajeev Balasubramonian
+      8 Natalie D. Enright Jerger
+      8 Murali Annavaram
+      8 Joel S. Emer
+      8 Eric Rotenberg
+      8 David H. Albonesi
+      8 Amir Roth
+      7 Yiannakis Sazeides
+      7 William J. Dally
+      7 Stephen W. Melvin
+      7 Robert A. Mueller
+      7 Reetuparna Das
+      7 Pradip Bose
+      7 Moinuddin K. Qureshi
+      7 Michael D. Smith
+      7 Kemal Ebcioglu
+      7 Jian Wang
+      7 Hsien-Hsin S. Lee
+      7 Gokhan Memik
+      7 Giacomo R. Sechi
+      7 David M. Brooks
+      7 David A. Wood
+      7 Andr&#233; Seznec
+      7 Alvin M. Despain
+      7 Alper Buyuktosunoglu
+      6 Stanley Habib
+      6 Shuguang Feng
+      6 Shantanu Gupta
+      6 Santosh G. Abraham
+      6 Richard E. Hank
+      6 Paolo Faraboschi
+      6 Nam Sung Kim
+      6 Michael Shebanow
+      6 Michael J. Flynn
+      6 Manoj Franklin
+      6 Jun Yang
+      6 Josep Llosa
+      6 John Kim
+      6 John C. Gyllenhaal
+      6 James C. Hoe
+      6 Hyunchul Park
+      6 Eduard Ayguad&#233;
+      6 Daniel A. Jim&#233;nez
+      6 Chita R. Das
+      6 Boris Grot
+      6 Alexandru Nicolau
+      6 Alexandre E. Eichenberger
+      5 Zeshan Chishti
+      5 Yuanyuan Zhou
+      5 Vijay Janapa Reddi
+      5 Todd C. Mowry
+      5 Timothy Sherwood
+      5 Tao Li
+      5 Steven J. Beaty
+      5 Soo-Mook Moon
+      5 Shiyuan Ding
+      5 Sandhya Dwarkadas
+      5 Ronald G. Dreslinski
+      5 Roger Espasa
+      5 Roger A. Bringmann
+      5 Robert I. Winner
+      5 Rakesh Kumar
+      5 Olivier Temam
+      5 Milo M. K. Martin
+      5 Masahiro Tsuchiya
+      5 Lizy Kurian John
+      5 Larry L. Wear
+      5 Kriszti&#225;n Flautner
+      5 Kent D. Wilken
+      5 Jos&#233; F. Mart&#237;nez
+      5 Jamison D. Collins
+      5 Jaehyuk Huh
+      5 Gideon Frieder
+      5 F. Jes&#250;s S&#225;nchez
+      5 Edward S. Davidson
+      5 Daniel Sanchez
+      5 Chris Wilkerson
+      5 Christopher Batten
+      5 Chang Joo Lee
+      5 Bradford M. Beckmann
+      5 Augustus K. Uht
+      5 Andrew Wolfe
+      5 Andrew R. Pleszkun
+      5 Amin Ansari
+      5 Aamer Jaleel
+      4 Yuan Xie
+      4 Youtao Zhang
+      4 William Y. Chen
+      4 Wei-Chung Hsu
+      4 Vivek Seshadri
+      4 Vijayalakshmi Srinivasan
+      4 Valeria Bertacco
+      4 Tse-Yu Yeh
+      4 Thomas F. Wenisch
+      4 Sumedh W. Sathaye
+      4 Subrata Dasgupta
+      4 Steven Swanson
+      4 Steven K. Reinhardt
+      4 Stamatis Vassiliadis
+      4 Simon C. Steely Jr.
+      4 Shih-Lien Lu
+      4 Sarita V. Adve
+      4 Sangyeun Cho
+      4 Radu Teodorescu
+      4 Po-Yung Chang
+      4 Parthasarathy Ranganathan
+      4 Osman S. Unsal
+      4 Neil Vachharajani
+      4 Narayanan Vijaykrishnan
+      4 Michael D. Powell
+      4 Michael C. Huang
+      4 Mark Smotherman
+      4 Manjunath Shevgoor
+      4 Luis Ceze
+      4 Louise H. Jones
+      4 Krste Asanovic
+      4 Kathryn S. McKinley
+      4 Kanad Ghose
+      4 Joshua San Miguel
+      4 Jose Renau
+      4 Joseph A. Fisher
+      4 Jorge Albericio
+      4 Jinshi Xia
+      4 Jason A. Blome
+      4 Jared Stark
+      4 Jangwoo Kim
+      4 Henk Corporaal
+      4 Guilherme Ottoni
+      4 Glenn Reinman
+      4 G. Edward Suh
+      4 Frederic T. Chong
+      4 Eric Hao
+      4 Engin Ipek
+      4 Dirk Grunwald
+      4 David Blaauw
+      4 Daniel J. Sorin
+      4 Craig B. Zilles
+      4 Chi-Keung Luk
+      4 Charles Lefurgy
+      4 Cansu Kaynak
+      4 Calvin Lin
+      4 Arvin Park
+      4 Alex Ram&#237;rez
+      4 Adri&#225;n Cristal
+      4 Abhishek Tiwari
+      4 Abhishek Bhattacharjee
+      3 Zhizhong Tang
+      3 Yoongu Kim
+      3 Yoav Etsion
+      3 Yashwant K. Malaiya
+      3 Xavier Vera
+      3 Wilson W. L. Fung
+      3 William J. Tracz
+      3 William H. Mangione-Smith
+      3 Werner Damm
+      3 Wei Zhao
+      3 Wei Liu
+      3 Wangyuan Zhang
+      3 Walid A. Najjar
+      3 Vinod Kathail
+      3 Victor B. Schneider
+      3 Veynu Narasiman
+      3 Timothy M. Jones
+      3 Thomas Moscibroda
+      3 Steven R. Vegdahl
+      3 Stanislaw Budkowski
+      3 Smruti R. Sarangi
+      3 Simha Sethumadhavan
+      3 Shruti Padmanabha
+      3 Sheng Li
+      3 Serkan Ozdemir
+      3 Scott Rixner
+      3 Satish Narayanasamy
+      3 Sanjeev Banerjia
+      3 Samira Manabi Khan
+      3 Saman P. Amarasinghe
+      3 Rustam Miftakhutdinov
+      3 Ronny Krashinsky
+      3 Ronald D. Barnes
+      3 R. J. Portier
+      3 Richard T. Thomas
+      3 Richard Johnson
+      3 Ram Rangan
+      3 Ramon Canal
+      3 Ramon Bertran
+      3 Ramaswamy Govindarajan
+      3 Ramadass Nagarajan
+      3 Quinn Jacobson
+      3 Pohua P. Chang
+      3 Phillip B. Gibbons
+      3 Philip H. Sweany
+      3 Pen-Chung Yew
+      3 Niraj K. Jha
+      3 Nick Tredennick
+      3 Nevin Kirman
+      3 Nathan Clark
+      3 Mohit Tiwari
+      3 Mithuna Thottethodi
+      3 Milos Prvulovic
+      3 Mike O'Connor
+      3 Michael S. Floyd
+      3 Michael R. Marty
+      3 Michael F. P. O'Boyle
+      3 Michael Ferdman
+      3 Michael Butler
+      3 Michael Andrews
+      3 Michael A. Kozuch
+      3 Meyrem Kirman
+      3 Matthew C. Merten
+      3 Masahiro Goshima
+      3 Mark Oskin
+      3 Mark Horowitz
+      3 Mario Tokoro
+      3 Mainak Chaudhuri
+      3 Luke Yen
+      3 Lingjia Tang
+      3 Kishore N. Menezes
+      3 Kaushik Roy
+      3 Karin Strauss
+      3 Jude A. Rivers
+      3 John W. Sias
+      3 Jishen Zhao
+      3 Jingwen Leng
+      3 Jes&#250;s Corbal
+      3 Jaume Abella
+      3 Jason Zebchuk
+      3 Jason Mars
+      3 James R. Larus
+      3 James O. Bondi
+      3 Hong Wang
+      3 Hongbo Rong
+      3 Hans Mulder
+      3 Gu-Yeon Wei
+      3 Guang R. Gao
+      3 Grigorios Magklis
+      3 G&#233;rard L. M. Noguez
+      3 Francisco J. Cazorla
+      3 Fran&#231;ois Dromard
+      3 Feipei Lai
+      3 Eiman Ebrahimi
+      3 Eiji Tamura
+      3 Douglas W. Clark
+      3 Doron Cohen
+      3 David Wentzlaff
+      3 David R. Kaeli
+      3 David Bernstein
+      3 Daniel Wong
+      3 Daniel M. Lavery
+      3 Cristiano Pereira
+      3 Corinna G. Lee
+      3 Christophe Dubach
+      3 Chia-Lin Yang
+      3 Chen-Yong Cher
+      3 Cheng Wang
+      3 Canturk Isci
+      3 Brucek Khailany
+      3 Brian K. Bray
+      3 Benjamin C. Lee
+      3 Avi Mendelson
+      3 Arkaprava Basu
+      3 Anne Bracy
+      3 Andrew Lukefahr
+      3 Amit Kumar
+      3 Alvin R. Lebeck
+      3 Alok N. Choudhary
+      3 Ali-Reza Adl-Tabatabai
+      3 Alessandro De Gloria
+      3 Al Davis
+      3 Adi Yoaz
+      2 Zhiying Wang
+      2 Zhichun Zhu
+      2 Zhao Zhang
+      2 Yunqi Zhang
+      2 Yun Liang
+      2 Yunji Chen
+      2 Yuanrui Zhang
+      2 Yuan Chou
+      2 Yongjun Park
+      2 Yan Solihin
+      2 Yan Pan
+      2 Xuehai Qian
+      2 Xipeng Shen
+      2 Xin Fu
+      2 Xiaoyao Liang
+      2 Wonsun Ahn
+      2 W. J. Meyers
+      2 Will Sherwood
+      2 William R. Mark
+      2 William C. Hopkins
+      2 W. Gary Sitton
+      2 Wei Zhang
+      2 Wei Huang
+      2 Wei Ding
+      2 Waleed Meleis
+      2 Vijay S. Pai
+      2 Vijay Nagarajan
+      2 V&#237;ctor Vi&#241;als
+      2 Uri C. Weiser
+      2 Ujval J. Kapasi
+      2 Trung A. Diep
+      2 Tri M. Nguyen
+      2 Toshio Nakatani
+      2 Toshiaki Kitamura
+      2 Tony Tung
+      2 Tingting Sha
+      2 Timothy J. Slegel
+      2 Timothy H. Heil
+      2 Timothy G. Rogers
+      2 Tim Harris
+      2 Tianshi Chen
+      2 Thomas R. Gross
+      2 Tatsushige Bitoh
+      2 Tao Zhang
+      2 Tao Wang
+      2 Takanobu Baba
+      2 Susan J. Eggers
+      2 Suleyman Sair
+      2 Sudhakar Yalamanchili
+      2 Steve Dropsho
+      2 Steve Crocker
+      2 Stephen Schleimer
+      2 Stephen R. Schach
+      2 Stephen Richardson
+      2 Stephen Hines
+      2 St&#233;phan Jourdan
+      2 Srinivas Devadas
+      2 Srimat T. Chakradhar
+      2 Srikanth T. Srinivasan
+      2 Somayeh Sardashti
+      2 Simonjit Dutta
+      2 Shinji Tomita
+      2 Shih-Chang Lai
+      2 Shekhar Srikantaiah
+      2 Sharad Malik
+      2 Sharad C. Seth
+      2 Shanxiang Qi
+      2 Shan Lu
+      2 Sergio D'Angelo
+      2 Sergei Y. Larin
+      2 Satarupa Bose
+      2 Santosh Pande
+      2 Sanjay Pant
+      2 SangMin Shim
+      2 Samuel P. Midkiff
+      2 Samuel Larsen
+      2 Sai Prashanth Muralidhara
+      2 Ryota Shioya
+      2 Ryan Rakvic
+      2 Ruby B. Lee
+      2 Roni Potasman
+      2 Robert S. Cohn
+      2 Robert R. Kessler
+      2 Robert J. Sheraga
+      2 Robert G. McDonald
+      2 Robert E. Skibbe
+      2 Ritesh Parikh
+      2 Rich Belgard
+      2 Richard E. Calcagni
+      2 Richard A. Hankins
+      2 Reiner W. Hartenstein
+      2 Reese B. Jones
+      2 Ravi Rajwar
+      2 Ravi Nair
+      2 Rajeev Barua
+      2 Rajagopalan Desikan
+      2 Rachata Ausavarungnirun
+      2 Qian Wang
+      2 Pritpal S. Ahuja
+      2 Piotr Dembinski
+      2 Pin Zhou
+      2 Peter R. Mattson
+      2 Peter Marwedel
+      2 Petar Radojkovic
+      2 Per Stenstr&#246;m
+      2 Pejman Lotfi-Kamran
+      2 Pedro Marcuello
+      2 Paul Racunas
+      2 Paul H. Leng
+      2 Paul Gratz
+      2 Paul D. Stigall
+      2 Patrick M. Lenders
+      2 Paolo Prinetto
+      2 Panagiota Nikolaou
+      2 Ofer Shacham
+      2 Nitya Ranganathan
+      2 Niladrish Chatterjee
+      2 Nigel P. Topham
+      2 Nidhi Aggarwal
+      2 Nicholas C. Gloy
+      2 Neal R. Firth
+      2 Nathan L. Binkert
+      2 Nachiappan Chidambaram Nachiappan
+      2 M. S. Govindan
+      2 Monica Alderighi
+      2 Mitchell Hayenga
+      2 Minsoo Rhu
+      2 Min Feng
+      2 Milad Hashemi
+      2 Michael R. Duda
+      2 Michael Pellauer
+      2 Michael L. Scott
+      2 Michael J. Schulte
+      2 Michael J. Manthey
+      2 Michael Gschwind
+      2 Michael D. Poe
+      2 Michael A. Schuette
+      2 Michael A. Laurenzano
+      2 Megan Wachs
+      2 Meeta Sharma Gupta
+      2 Mauro Olivieri
+      2 Mauricio Breternitz Jr.
+      2 Matthew M. Crum
+      2 Matthew J. Bridges
+      2 Matthew Halpern
+      2 Matthew A. Watkins
+      2 Mattan Erez
+      2 Mary Lou Soffa
+      2 Mary Jane Irwin
+      2 Mary D. Brown
+      2 Martin L. Griss
+      2 Marleen Sint
+      2 Mark G. Stoodley
+      2 Mark Gebhart
+      2 Marios Kleanthous
+      2 Mario Nemirovsky
+      2 Marco Mezzalama
+      2 Marcelo Cintra
+      2 Manjunath Kudlur
+      2 Manish Vachharajani
+      2 Malcolm Allen-Ware
+      2 Lucas Roh
+      2 L. Lisca
+      2 Lizhong Chen
+      2 Li Shang
+      2 Liqiang He
+      2 Leo Marcus
+      2 Lei Jiang
+      2 Lee W. Hoevel
+      2 Lawrence Rauchwerger
+      2 Lavanya Subramanian
+      2 Kypros Constantinides
+      2 Konrad Lai
+      2 Kim M. Hazelwood
+      2 Kevin T. Lim
+      2 Kevin Skadron
+      2 Kenzo Okuda
+      2 Ken Mai
+      2 Keith I. Farkas
+      2 Kazutoshi Takahashi
+      2 Junli Gu
+      2 Juha Hein&#228;nen
+      2 Josep M. Codina
+      2 Joseph Zambreno
+      2 Joseph L. Greathouse
+      2 Jos&#233; Gonz&#225;lez
+      2 Jos&#233; Duato
+      2 Jos&#233; A. Joao
+      2 Jong-Jiann Shieh
+      2 Johnson Kin
+      2 John Rosenberg
+      2 John L. Hennessy
+      2 John L. Gieser
+      2 John F. Brown III
+      2 John D. Owens
+      2 Joel Coburn
+      2 Joan-Manuel Parcerisa
+      2 J. M. Mulder
+      2 J. L. Linn
+      2 Jiwei Lu
+      2 Jerry P.-C. Hwang
+      2 Jeongseob Ahn
+      2 Jeff Rupley
+      2 Jeffrey Stuecheli
+      2 Jean P. Schoellkopf
+      2 Jayaram Bhasker
+      2 Javier Zalamea
+      2 Javier Picorel
+      2 Jason Power
+      2 Jared C. Smolens
+      2 Jan Hoogerbrugge
+      2 James Tuck
+      2 Jaewoong Sim
+      2 Jaewon Lee
+      2 Jae W. Lee
+      2 J. Adam Butts
+      2 Jack Sampson
+      2 Islam Atta
+      2 Il Park
+      2 Igor Hansen
+      2 I-Cheng K. Chen
+      2 Ibrahim Hur
+      2 Hyeran Jeon
+      2 Hwanju Kim
+      2 Ho-Seop Kim
+      2 Hillery C. Hunter
+      2 Hideki Ando
+      2 Helmut Berndt
+      2 Heather Hanson
+      2 Hanjun Kim
+      2 Hangsheng Wang
+      2 Haitham Akkary
+      2 Haiming Liu
+      2 Haicheng Wu
+      2 Hadi Esmaeilzadeh
+      2 Guoyang Chen
+      2 Guangyu Sun
+      2 Greg Semeraro
+      2 Gregory Frederick Diamos
+      2 Grant E. Haab
+      2 Graham Wood
+      2 Giuseppe Desoli
+      2 Gilles Pokam
+      2 Ghassan Shobaki
+      2 George L. Yuan
+      2 Gennady Pekhimenko
+      2 Fredrik Dahlgren
+      2 Francis P. Mathur
+      2 Francisco J. Mesa-Martinez
+      2 Forrest Brewer
+      2 Feng Qin
+      2 Eun Jung Kim
+      2 Etsuo Takahashi
+      2 Erik R. Altman
+      2 Erik M. Nystrom
+      2 Erik Hagersten
+      2 Eric Tune
+      2 Enric Gibert
+      2 Emre &#214;zer
+      2 Emmett Witchel
+      2 Edwin V. Bonilla
+      2 Edil S. Tavares Fernandes
+      2 Dror E. Maydan
+      2 Dongrui Fan
+      2 Dmitry V. Ponomarev
+      2 D. Jackson
+      2 Divya Gulati
+      2 Dimitris Kaseridis
+      2 Derek B. Noonburg
+      2 David J. DeWitt
+      2 David B. Whalley
+      2 David Black-Schaffer
+      2 David A. Patterson
+      2 David Abramson
+      2 Darko Marinov
+      2 Darko Kirovski
+      2 Danny Kershaw
+      2 Daniel Tabak
+      2 Daniel P. Siewiorek
+      2 Daniel Lustig
+      2 Daniel Lo
+      2 Daniel H. Friendly
+      2 Daniel A. Connors
+      2 Dani&#232;le Dromard
+      2 Daehoon Kim
+      2 C. V. Ramamoorthy
+      2 Constantine D. Polychronopoulos
+      2 Colin C. Charlton
+      2 Cliff Young
+      2 Clement Luk
+      2 Chrysostomos Nicopoulos
+      2 Christopher T. Weaver
+      2 Christopher J. Hughes
+      2 Chris Fallin
+      2 Chih-Chieh Lee
+      2 Charles Neuhauser
+      2 Changkyu Kim
+      2 C. D. Ardoin
+      2 Carole-Jean Wu
+      2 Bryan Black
+      2 Bruce K. Holmer
+      2 Bruce D. Shriver
+      2 Brian L. Deitrich
+      2 Brian Greskamp
+      2 Brian A. Malloy
+      2 B. Natarajan
+      2 Bishop Brock
+      2 Binh Pham
+      2 Bernhard Holtkamp
+      2 Benjamin Scholbrock
+      2 Barton Sano
+      2 Barry S. Fagin
+      2 Banit Agrawal
+      2 A. Srivastava
+      2 Ashok K. Agrawala
+      2 A. P. Wim B&#246;hm
+      2 Aparna Kotha
+      2 Anys Bacha
+      2 Anthony Lake
+      2 Ankit Sethia
+      2 Andreas Sembrant
+      2 Anastasia Ailamaki
+      2 Anand Sivasubramaniam
+      2 Amin Firoozshahian
+      2 Alyssa B. Apsel
+      2 Ali Bakhoda
+      2 Alex Solomatnikov
+      2 Alex Shye
+      2 Alexander V. Veidenbaum
+      2 Alex Alet&#224;
+      2 Alaa R. Alameldeen
+      2 Ajaykumar Kannan
+      2 Adrian Sampson
+      2 Adrian Nistor
+      2 Adrian M. Caulfield
+      2 Adam Stoler
+      2 Abdullah Muzahid
+      2 Abd-Elfattah Mohamed Abd-alla
+      2 Aaron Smith
+      1 Zvonko G. Vranesic
+      1 Zubair Mayet
+      1 Zimo Li
+      1 Zijiang Yang
+      1 Zidong Du
+      1 Zhong Xu
+      1 Zhong-Liang Ong
+      1 Zhiwei Xu
+      1 Zhiru Zhang
+      1 Zhiqiang Ma
+      1 Zhenyu Sun
+      1 Zhenmin Li
+      1 Zhenghong Wang
+      1 Zhen Fang
+      1 Zak Smith
+      1 Zain Asgar
+      1 Zachary Purser
+      1 Yves Lhuillier
+      1 Yuya Kora
+      1 Yuxin Bai
+      1 Yuval Lavon
+      1 Yusuf Onur Ko&#231;berber
+      1 Yun Zhang
+      1 Yun Wang
+      1 Yunsup Lee
+      1 Yunn Yen Chen
+      1 Yu-Ju Hong
+      1 Yuho Jin
+      1 Yuh-Fang Tsai
+      1 Yuhao Zhu
+      1 Yu Du
+      1 Yudong Wu
+      1 Yu-Chin Hsu
+      1 Yuanwei Fang
+      1 Yuan Lin
+      1 Yuan C. Chou
+      1 Yuan-Bao Shieh
+      1 Youngtaek Kim
+      1 Youngsoo Choi
+      1 Youngsok Kim
+      1 Youhui Zhang
+      1 Yongwei Wu
+      1 Yong-Fong Lee
+      1 Yoji Yamada
+      1 Yi Yang
+      1 Yixin Luo
+      1 Yi Tang
+      1 Yiran Chen
+      1 Yiping Guan
+      1 Yingying Tian
+      1 Yingwei Zhang
+      1 Ying-Chen Lin
+      1 Yimin Wu
+      1 Yigel Zemach
+      1 Y. H. Kuo
+      1 Yevgeny Gurevich
+      1 Yen-Jen Oyang
+      1 Yehea I. Ismail
+      1 Yazhou Zu
+      1 Yatin A. Manerkar
+      1 Yasunori Kimura
+      1 Yasuhiko Nakashima
+      1 Yaosheng Fu
+      1 Yaohan Chu
+      1 Yanwei Song
+      1 Yannis Smaragdakis
+      1 Yang Liu
+      1 Yang Hu
+      1 Xun Li
+      1 Xuhao Chen
+      1 Xuezhe Zheng
+      1 Xue-liang Yang
+      1 Xi Wu
+      1 Xiuyuan Bi
+      1 Xiuhong Li
+      1 Xin Tong
+      1 Xinping Zhu
+      1 Xingyao Zhang
+      1 Xing Fang
+      1 Xi E. Chen
+      1 Xiaowei Shen
+      1 Xiaotong Zhuang
+      1 Xiaolong Xie
+      1 Xiaojin Zhu
+      1 Xiaodong Zhang
+      1 Xiaochun Zhu
+      1 Xiaochen Guo
+      1 Xian Zhang
+      1 Xiangyu Zhang
+      1 Xiangyao Yu
+      1 Wonyoung Kim
+      1 Wolfgang K. Giloi
+      1 Wolfgang E. Nagel
+      1 Woei Lin
+      1 W. Michael Denny
+      1 W. J. Chen
+      1 Willis K. King
+      1 William Thies
+      1 William Marcus Miller
+      1 William L. Lynch
+      1 William Lloyd Bircher
+      1 William Kuk
+      1 William J. Schmidt
+      1 William H. Reinhart
+      1 William H. Joyner Jr.
+      1 William Hasenplaugh
+      1 William E. Weihl
+      1 William C. Carter
+      1 William Arthur
+      1 Willard G. Bouricius
+      1 Wilfried Rottmann
+      1 Whay Sing Lee
+      1 Wenqing Wu
+      1 Weng-Fai Wong
+      1 Wei Wu
+      1 Weiwei Xiong
+      1 Weiqi Zhang
+      1 Weimin Zhen
+      1 Wei Li
+      1 Weidong Shi
+      1 Weidan Wu
+      1 Webb Horn
+      1 W. D. Maurer
+      1 W. D. Bell
+      1 Wayne Wolf
+      1 Walter Lee
+      1 Walter H. Burkhardt
+      1 Walter A. Wallach Jr.
+      1 Wajahat Qadeer
+      1 Waclaw Godycki
+      1 V. Ung
+      1 Volkan Kursun
+      1 V. Michael Powers
+      1 Vlad Petric
+      1 Vladimir Rainish
+      1 Vladimir Pentkovski
+      1 Vladimir Cakarevic
+      1 Vivek Sarkar
+      1 Viswanathan Vaidyanathan
+      1 Vishal Sharda
+      1 Vinod Grover
+      1 Vinay K. Chippa
+      1 Vilas Sridharan
+      1 Vikram S. Adve
+      1 Vikram Chandrasekhar
+      1 Vikas R. Vasisht
+      1 Viji Srinivasan
+      1 Vijay Sindagi
+      1 Vijay Degalahal
+      1 Vignyan Reddy Kothinti Naresh
+      1 Victor V. Zyuban
+      1 Victor R. Lesser
+      1 Victor Moya Del Barrio
+      1 Vicente Lorente
+      1 V. H. Allen
+      1 Venkatraman Govindaraju
+      1 Venkatesh Akella
+      1 Venkata R. Immaneni
+      1 Veljko Milutinovic
+      1 Vassos Soteriou
+      1 Vason P. Srini
+      1 Vasileios Kontorinis
+      1 Vasanth Bala
+      1 Uzi Shvadron
+      1 Uwe Schwiegelshohn
+      1 Utku Aydonat
+      1 U. R. Shah
+      1 Urs H&#246;lzle
+      1 Ulya R. Karpuzcu
+      1 Tzvetan S. Metodi
+      1 Tzi-cker Chiueh
+      1 Tze Meng Low
+      1 Tushar Krishna
+      1 Tung Thanh Hoang
+      1 Tulika Mitra
+      1 Tsang-Ling Sheu
+      1 Trevor E. Carlson
+      1 Trevor Blackwell
+      1 Toshinori Aoyama
+      1 Toshihisa Ono
+      1 Toshihiro Ozawa
+      1 Tony Pitchford
+      1 Toni Juan
+      1 Tong Liu
+      1 Tom Weidner
+      1 Tomlinson Gene Rauscher
+      1 Tokuzo Kiyohara
+      1 Todor I. Mollow
+      1 Todd Mytkowicz
+      1 Toan Pham
+      1 T. K. McFarland
+      1 Tin-Fook Ngai
+      1 Timothy N. Miller
+      1 Timothy Mark Pinkston
+      1 Timothy Kong
+      1 Timothy J. Stanley
+      1 Timothy J. Mulrooney
+      1 Timothy Heil
+      1 Timothy Hayes
+      1 Timothy Creech
+      1 Tilak Agerwala
+      1 Tienyo Pan
+      1 Tientien Li
+      1 Tien-Fu Chen
+      1 Tiark Rompf
+      1 Thomas Y. Yeh
+      1 Thomas Vogelsang
+      1 Thomas Strach
+      1 Thomas R. Puzak
+      1 Thomas Pittman
+      1 Thomas Piazza
+      1 Thomas Mullins
+      1 Thomas M&#252;ller
+      1 Thomas Charles Wilson
+      1 Thomas B. Jablin
+      1 Thomas Ball
+      1 Thang Tran
+      1 Tevi Devor
+      1 Teresa Monreal
+      1 Teresa L. Johnson
+      1 Tep P. Dobry
+      1 Teiji Emori
+      1 Ted Lewis
+      1 Ted G. Lewis
+      1 T. Don Dennis
+      1 T. C. Wesselkamper
+      1 T. C. Cooper
+      1 Tariq Samad
+      1 Tarek S. Abdelrahman
+      1 Tao Luo
+      1 Tao Chen
+      1 T. Anthony Marsland
+      1 Taku Ohsawa
+      1 Takashi Takizuka
+      1 Takao Sugimoto
+      1 Takaaki Kato
+      1 Tai-Ming Parng
+      1 Taesu Kim
+      1 Tae Jun Ham
+      1 Taejoon Song
+      1 Tadashi Tanaka
+      1 Tadamichi Kawada
+      1 Syed Zohaib Gilani
+      1 Syed Ali Raza Jafri
+      1 Swagath Venkataramani
+      1 Svilen Kanev
+      1 Suvinay Subramanian
+      1 Susmit Sarkar
+      1 Susmit Biswas
+      1 Supreet Jeloka
+      1 Sunpyo Hong
+      1 Sunil R. Das
+      1 Sung Kyu Lim
+      1 Sun Chan
+      1 Sunah Lee
+      1 Suman Maradani
+      1 Sule Ozev
+      1 Sujay S. Parekh
+      1 Suhas S. Patil
+      1 Sudhanva Gurumurthi
+      1 Subramaniam Maiyuran
+      1 Subbarao Palacharla
+      1 Stuart Sechrest
+      1 Stratis Viglas
+      1 Steven Staudaher
+      1 Steven S. Lumetta
+      1 Steven R. Kunkel
+      1 Steven Raasch
+      1 Steven Lumetta
+      1 Steven J. Wallach
+      1 Steven Hsu
+      1 Steven Geyer
+      1 Steven G. Dropsho
+      1 Steven A. Przybylski
+      1 Steve Gerding
+      1 Steve Carr
+      1 Steve Bennett
+      1 Stevan A. Vlaovic
+      1 Stephen S. Yau
+      1 Stephen M. O'Haire
+      1 Stephen L. Squires
+      1 Stephen J. Allan
+      1 Stephen D. Crocker
+      1 Stephan Diestelhorst
+      1 Steinar Flatland
+      1 Stefanos Kaxiras
+      1 Stefan M. Freudenberger
+      1 Stavros Volos
+      1 Stark C. Draper
+      1 Stanley M. Nissen
+      1 Stan Cox
+      1 S. S. Ravi
+      1 S. S. Hyder
+      1 S. ShouHan Wang
+      1 Sriram Vajapeyam
+      1 Srinivasan Ramani
+      1 Srilatha Manne
+      1 Srihari Makineni
+      1 Sri Hari Krishna Narayanan
+      1 Srihari Cadambi
+      1 Sridhar Samudrala
+      1 Sreenivas Subramoney
+      1 Sravanthi Kota Venkata
+      1 Soyeon Park
+      1 Soumya Eachempati
+      1 Soraya Ghiasi
+      1 Sooraj Puthoor
+      1 Soontae Kim
+      1 Song Jiang
+      1 Soner &#214;nder
+      1 Socrates Demetriades
+      1 Snehasish Kumar
+      1 S. Molnar
+      1 Skyler Schneider
+      1 S. K. Nandy
+      1 Skip Stritter
+      1 Siva Kumar Sastry Hari
+      1 Simone Campanoni
+      1 Silviu M. S. A. Chiricescu
+      1 Si Li
+      1 Siddhartha Chhabra
+      1 S. Hwang
+      1 Shuichi Sakai
+      1 Shuchi Chawla II
+      1 Shubhendu S. Mukherjee
+      1 Shreesha Srinath
+      1 Shoji Kawahara
+      1 Shlomo Weiss
+      1 Shlomit S. Pinter
+      1 Shiyi Xu
+      1 Shivkumar Ramabadran
+      1 Shin-Ming Liu
+      1 Shin'ichiro Nishizaki
+      1 Shin-ichiro Mori
+      1 Shiliang Hu
+      1 Shijin Zhang
+      1 Shih-Hsu Huang
+      1 Shie Mannor
+      1 Shidhartha Das
+      1 Sherief Reda
+      1 Shashidhar Mysore
+      1 Shashank S. Nemawarkar
+      1 Shaoli Liu
+      1 Shane Swenson
+      1 Shane Ryoo
+      1 Shalom Goldenberg
+      1 Shaizeen Aga
+      1 S. F. Gilli
+      1 S. Feng
+      1 Seung-Moon Yoo
+      1 Seth Pettie
+      1 Seth H. Pugsley
+      1 Seonyeong Heo
+      1 Seongwook Jin
+      1 Seong-Lyong Gong
+      1 Seongbae Park
+      1 Seokin Hong
+      1 Se-Hyun Yang
+      1 Sebastian Winkel
+      1 Sebastian Mirolo
+      1 Sean M. Carey
+      1 Scott E. Breach
+      1 Scott D. Carson
+      1 Scott Davidson
+      1 Saurabh Drolia
+      1 Saugata Chatterjee
+      1 Satoshi Matsushita
+      1 Satnam Sing Gambhir
+      1 Sasa Tomic
+      1 Sanjeev Das
+      1 Sanjay Krishnamurthy
+      1 Sanjay Jinturkar
+      1 Sangwook P. Kim
+      1 Sangwon Seo
+      1 Sanghoon Cha
+      1 Sanford K. S. Ma
+      1 Samuel Rodrigo
+      1 Samuel H. Fuller
+      1 Sam S. Stone
+      1 Samarina Makhdoom
+      1 Samantika Subramaniam
+      1 Salvador Petit
+      1 Sai-Wang Tam
+      1 Saisanthosh Balakrishnan
+      1 Sahngyun Hahn
+      1 Sahil Madeka
+      1 Sahil Koladiya
+      1 Sadun Anik
+      1 Sadia Sharif
+      1 Sadasivan Shankar
+      1 Ryszard F. Gajda
+      1 Ryan Riley
+      1 Ryan Cochran
+      1 R. van Dongen
+      1 Russ Joseph
+      1 Rung-Ji Shang
+      1 Ruisheng Wang
+      1 Ruijin Zhou
+      1 Rubin A. Parekhji
+      1 Rub&#233;n Gonz&#225;lez
+      1 R. Petzold
+      1 Roy Mattson
+      1 Roy Dz-Ching Ju
+      1 Ross Goodell
+      1 Rosario Cammarota
+      1 Rosa M. Badia
+      1 Ron Yoder
+      1 Ronny Ronen
+      1 Ron Marko
+      1 Ron Gabor
+      1 Ronald M. Guffin
+      1 Ronald L. Hartung
+      1 Ronald G. Harris
+      1 Rolf Kassa
+      1 Roger C. Wood
+      1 Rod Skinner
+      1 Rodric M. Rabbah
+      1 Rodney Boleyn
+      1 Rochit Rajsuman
+      1 Robert Yung
+      1 Robert W. Nowlin
+      1 Robert W. Beauchamp
+      1 Robert Schreiber
+      1 Robert S. Chappell
+      1 Robert R. Roediger
+      1 Robert P. Dick
+      1 Roberto Vaccaro
+      1 Robert M. McClure
+      1 Robert M. Glorioso
+      1 Robert Hundt
+      1 Robert Gries
+      1 Robert D. Bressler
+      1 Robert Callan
+      1 Robert A. Walker
+      1 R. M. Lee
+      1 R. Manikantan
+      1 R. K. Bell
+      1 R. Katti
+      1 R. in 't Velt
+      1 Richard W. Vuduc
+      1 Richard Tuck
+      1 Richard P. Atkins
+      1 Richard N. Fall
+      1 Richard L. Stuart
+      1 Richard L. Sites
+      1 Richard L. Kleir
+      1 Richard J. Eickemeyer
+      1 Richard H. Eckhouse Jr.
+      1 Richard F. Rizzolo
+      1 Richard F. Hobson
+      1 Richard E. Merwin
+      1 Richard D. Strong
+      1 Richard Bruce
+      1 Richard B. Brown
+      1 Richard Auletta
+      1 Ricardo Pannain
+      1 Ricardo Bianchini
+      1 R. H. Evans
+      1 R. Govindarajan
+      1 R. F. Vaughan
+      1 Reuven Bakalash
+      1 Renji Thomas
+      1 Ren&#233;e St. Amant
+      1 Reino Kurki-Suonio
+      1 Reena Panda
+      1 R. C. Ord
+      1 Raymond Lo
+      1 Ray Essick
+      1 Ravishankar R. Iyer
+      1 Ravishankar Iyer
+      1 Ravi R. Iyer
+      1 Ravi Iyer
+      1 Ravi Bhargava
+      1 Ratan K. Guha
+      1 Rastislav Bod&#237;k
+      1 Rao Fu
+      1 Ranjith Subramanian
+      1 Ran Ginosar
+      1 Ranga Vemuri
+      1 Randy Morris
+      1 Randall Rettberg
+      1 Ramon Doallo
+      1 Ram Krishnamurthy
+      1 Rami Sheikh
+      1 Rami G. Melhem
+      1 Ram Huggahalli
+      1 Ramesh Radhakrishnan
+      1 Ramesh Karri
+      1 Ramesh Illikkal
+      1 Ramazan Bitirgen
+      1 Ram&#243;n Beivide
+      1 Ralph Grishman
+      1 Raksit Ashok
+      1 Rajkishore Barik
+      1 Rajiv Kapoor
+      1 Rajive Joshi
+      1 Rajiv A. Ravindran
+      1 Rajib Nath
+      1 Rajesh K. Gupta
+      1 Rajeev R. Rao
+      1 Rajeev Motwani
+      1 Rajeev K. Dokania
+      1 Rahul Razdan
+      1 Rahul Chattergy
+      1 Raghuram Srinivasan
+      1 Raghuraman Balasubramanian
+      1 Rabin A. Sugumar
+      1 Qingyuan Deng
+      1 Qing Yi
+      1 Qing Guo
+      1 Qi Guo
+      1 Qiang Wu
+      1 P. Wagner
+      1 P. van Gerwen
+      1 P. Stravers
+      1 P. S. Aravind
+      1 Prithviraj Banerjee
+      1 Premkishore Shivakumar
+      1 Praveen Yedlapalli
+      1 Prathima Agrawal
+      1 Prashant Prahlad
+      1 Prashant Nair
+      1 Pranay Koka
+      1 Pradip K. Srimani
+      1 Pradeep Ramachandran
+      1 Pradeep K. Dubey
+      1 Prabal Sharma
+      1 P. Michael Farmwald
+      1 P. J. Joseph
+      1 Pius Ng
+      1 Pinar T&#246;z&#252;n
+      1 Pierre Salverda
+      1 Pierre Palatin
+      1 Pierre Michaud
+      1 Piero A. Biga
+      1 Phil Nico
+      1 Phil May
+      1 Phillip Crews
+      1 Phil Keukes
+      1 Philippe Clauss
+      1 Philip N. Strenski
+      1 Philip LeNir
+      1 Philip Herman
+      1 Philip G. Emma
+      1 P.-H. Chang
+      1 P. Geoffrey Lowney
+      1 Petros Faloutsos
+      1 Peter Siegel
+      1 Peter Sewell
+      1 Peter Moulton
+      1 Peter L. Bird
+      1 Peter G. Sassone
+      1 Peter F. Sweeney
+      1 Peter Feller
+      1 Peter E. Strazdins
+      1 Peter Djeu
+      1 Peter Dahl
+      1 Peter A. Milder
+      1 Peter A. Dinda
+      1 Pedro Rodriguez
+      1 Pedro L&#243;pez
+      1 Pedro Chaparro
+      1 P. C. P. Bhatt
+      1 Pazhani Pillai
+      1 Paul V. Gratz
+      1 Paul Reilly
+      1 Paul Reed
+      1 Paulo T. de Sousa
+      1 Paulo Centoducatte
+      1 Paul N. Hilfinger
+      1 Paul M. Carpenter
+      1 Paul Kenyon
+      1 Paul J. Drongowski
+      1 Paul H. Siegel
+      1 Paul Herrmann
+      1 Paul F. Kunz
+      1 Paul Constantine Anagnostopoulos
+      1 Paul Chow
+      1 Patrick W. Mallett
+      1 Patrick Sherhart
+      1 Patrick Morrow
+      1 Patrick Hannon
+      1 Patricia Van Name
+      1 Pascal Sainrat
+      1 Parthasarathy P. Tirumalai
+      1 Pantung Wijaya
+      1 Panos Macres
+      1 Pablo J. Ortiz
+      1 Pablo Ib&#225;&#241;ez
+      1 Ozcan Ozturk
+      1 Oscar Palomar
+      1 Orna Etzion
+      1 Onur Kayiran
+      1 Onat Menzilcioglu
+      1 Olivier Rochecouste
+      1 Oliverio J. Santana
+      1 Ohyoung Jang
+      1 Oguz Ergin
+      1 O. G. Johnson
+      1 O. Gibergues
+      1 Noubar Partamian
+      1 Norman Rubin
+      1 Norimasa Otsuki
+      1 Noel Eisley
+      1 Nobuyasu Osato
+      1 N. K. Nanda
+      1 Niti Madan
+      1 Nishkam Ravi
+      1 Niranjan Soundararajan
+      1 Ninghui Sun
+      1 Nikos Hardavellas
+      1 Nikos Foutris
+      1 Nikolay Mateev
+      1 Nikolas Ladas
+      1 Nikolas Ioannou
+      1 Nikolaos Alachiotis
+      1 Nikil D. Dutt
+      1 Nikhil A. Patil
+      1 Niket Agarwal
+      1 Nicholas P. Carter
+      1 Newsha Ardalani
+      1 Nelson Q. Vasconcelos
+      1 Ned Brekelbaum
+      1 Neal Clayton Crago
+      1 Naveen Muralimanohar
+      1 Nathan Tuck
+      1 Nathan Goulding-Hotta
+      1 Nathan Beckmann
+      1 Nathalie Drach
+      1 Nan Jiang
+      1 Nancy J. Warter-Perez
+      1 Nancy J. Warter
+      1 Nancy J. Wahl
+      1 Nam S. Woo
+      1 Nam Duong
+      1 Nak Hee Seong
+      1 Naixing Li
+      1 Nagesh B. Lakshminarayana
+      1 Nagendra Dwarakanath Gulur
+      1 Nael B. Abu Ghazaleh
+      1 Nader Bagherzadeh
+      1 Nadeem Malik
+      1 Nadathur Satish
+      1 Nacho Navarro
+      1 Munish Gupta
+      1 M. Tabandeh
+      1 M. S. Tudruj
+      1 M. Srinivas
+      1 M. S. Anastas
+      1 Mrinmoy Ghosh
+      1 M. Rajagopalan
+      1 Morrie Gasser
+      1 Mor Harchol-Balter
+      1 Mohammadamin Ajdari
+      1 Mohammad Alisafaee
+      1 Mohammad Abdel-Majeed
+      1 Mohamed I. Elmasry
+      1 Mohab Anis
+      1 M. Nicolaides
+      1 M. Mahmood
+      1 M. Lu
+      1 Mladen Wilder
+      1 M. J. Kimmel
+      1 M. J. Horton
+      1 Mitsuru Ikeda
+      1 Mishali Naik
+      1 Miriam R. Tausner
+      1 Miquel Moret&#243;
+      1 Miodrag Potkonjak
+      1 Minseon Ahn
+      1 Minseok Lee
+      1 Minjang Kim
+      1 Mingxing Tan
+      1 Ming T. Liu
+      1 Ming Liu
+      1 Milos Ercegovac
+      1 Milenko Drinic
+      1 Mike Spak
+      1 Mike Phillip
+      1 Mihalis Psarakis
+      1 Mick Wollman
+      1 Michele Franceschini
+      1 Michel Dubois
+      1 Michel C. Rosier
+      1 Michela Becchi
+      1 Michael Zhang
+      1 Michael Upton
+      1 Michael Sullivan
+      1 Michael Stumm
+      1 Michael Steffen
+      1 Michael Papamichael
+      1 Michael M. Swift
+      1 Michael Mihn-Jong Lee
+      1 Michael McKeown
+      1 Michael L. Chu
+      1 Michael J. Lutz
+      1 Michael J. Knieser
+      1 Michael Hohmuth
+      1 Michael Golden
+      1 Michael F. Kraley
+      1 Michael F.
+      1 Michael E. Wolf
+      1 Michael E. Bauer
+      1 Michael D. Bond
+      1 Michael Brukman
+      1 Michael B. Healy
+      1 Michael Bekerman
+      1 Michael Bedford Taylor
+      1 Michael A. Howland
+      1 Michael A. Driscoll
+      1 M. Holland
+      1 Meng Zhang
+      1 Meng-chou Chang
+      1 Mendel Rosenblum
+      1 Meltem Ozsoy
+      1 Mehrzad Samadi
+      1 M. C. Surles
+      1 M.-C. Frank Chang
+      1 M. C. Ertem
+      1 M. Brady
+      1 M. Belsole
+      1 M. Balakrishnan
+      1 Mazin S. Yousif
+      1 Mayan Moudgill
+      1 Maurice V. Wilkes
+      1 Matt T. Yourst
+      1 Matt Postiff
+      1 Matthias Hauswirth
+      1 Matthew T. O'Keefe
+      1 Matthew Smithson
+      1 Matthew J. Thazhuthaveetil
+      1 Matthew I. Frank
+      1 Matthew D. Sinclair
+      1 Masood Namjoo
+      1 Masamichi Takagi
+      1 Marzia Polito
+      1 Mary Vernon
+      1 Mary Ann Hirsch
+      1 Martin Pohlack
+      1 Martin Burtscher
+      1 Marten van Dijk
+      1 Mark Woh
+      1 Mark Wilkening
+      1 Markus Mock
+      1 Mark Stephenson
+      1 Mark R. Swanson
+      1 Mark Hummel
+      1 Mark Heffernan
+      1 Mark Harris
+      1 Mark C. Jeffrey
+      1 Mark Charney
+      1 Mark A. Franklin
+      1 Marius Evers
+      1 Mario J. Gonzalez
+      1 Mario De Blasi
+      1 Mario Cartes
+      1 Mario Badr
+      1 Marek Tudruj
+      1 Marco Vanneschi
+      1 Marco Galluzzi
+      1 Marco Fillo
+      1 Marco Danelutto
+      1 Marco A. Ram&#237;rez
+      1 Marc Lupon
+      1 Marc Gonz&#225;lez
+      1 Marc de Kruijf
+      1 Manuel Prieto
+      1 M. Anton Ertl
+      1 Mantis H. M. Cheng
+      1 M. Annunziata
+      1 Man-Lap Li
+      1 Mamoru Maekawa
+      1 Malini Bhandaru
+      1 Mahmoud Said
+      1 Mahesh Mehendale
+      1 Mahesh Ketkar
+      1 Mahdi Nazm Bojnordi
+      1 Madhu Saravana Sibi Govindan
+      1 M. Aater Suleman
+      1 L. Y. Kung
+      1 L. Watson
+      1 Lutz Richter
+      1 Luke Gerke
+      1 Luis Villa
+      1 Luis Pi&#241;uel
+      1 Luis Lastras
+      1 Luis A. Lozano
+      1 L. Shih
+      1 L. Philip Caillouet
+      1 L. Peter Deutsch
+      1 Louis Gallenson
+      1 Lothar Nowak
+      1 Lori L. Pollock
+      1 Lorenzo Verdoscia
+      1 Lorena Ndreu
+      1 Longjun Liu
+      1 Long Fei
+      1 Lode Nachtergaele
+      1 L. Manwaring
+      1 Lloren&#231; Cerd&#224;
+      1 Lizy K. John
+      1 Li Zhao
+      1 Liwen Shih
+      1 Li-Wen Chang
+      1 Liwei Yuan
+      1 Livio Soares
+      1 Lishing Liu
+      1 Li Shen
+      1 Linhai Song
+      1 Ling Li
+      1 Li-Ling Chen
+      1 Liji Gopalakrishnan
+      1 Lieven Eeckhout
+      1 Lester Bartel
+      1 Lesley Shannon
+      1 Leonid Baraz
+      1 Leonard J. Shustek
+      1 Lena E. Olson
+      1 Lei Zhang
+      1 Lei Jin
+      1 Lee W. Tower
+      1 Lea Hwang Lee
+      1 L. Campanale
+      1 Laxmi N. Bhuyan
+      1 Lawrence Spracklen
+      1 Laurie J. Hendren
+      1 Laura M. Grupp
+      1 Laura Marie Leventhal
+      1 Larry T. Pileggi
+      1 Larry L. Kinney
+      1 Larry E. Hand
+      1 Lan Jin
+      1 Lan Gao
+      1 Lambert Schaelicke
+      1 Lakshmi Kumar Dabbiru
+      1 L. A. Kovacs
+      1 Laird H. Moffett
+      1 Kyung-Ah Chang
+      1 Kyohei Yamaguchi
+      1 Kyle J. Nesbit
+      1 Kun Zhang
+      1 Kunle Olukotun
+      1 Kulbhushan Kalra
+      1 Kubilay Atasu
+      1 K. S. Shankar
+      1 Krishna T. Malladi
+      1 Krishna Subramanian
+      1 Krishnamurthi Kannan
+      1 Konstantinos Aisopos
+      1 Knud Kirkegaard
+      1 K. M. Reddy
+      1 K. Lewis
+      1 Klaus D. Mueller
+      1 Klaus Danne
+      1 K. Lall
+      1 Kiyoshi Shibayama
+      1 Kiichiro Tamaru
+      1 Ki Hwan Yum
+      1 Khubaib
+      1 Khoa Nguyen
+      1 Khaled El-Ayat
+      1 Kewal K. Saluja
+      1 Kevin M. Woley
+      1 Kevin M. Lepak
+      1 Kevin Karplus
+      1 Kevin J. Brown
+      1 Kevin Fan
+      1 Kevin B. Theobald
+      1 Keshav Pingali
+      1 Keshavan Varadarajan
+      1 Kerry Bernstein
+      1 Kent Moat
+      1 Ken Sakamura
+      1 Ken Rimey
+      1 Kenneth Wilson
+      1 Kenneth F. Greenberg
+      1 Kenneth Carvin
+      1 Ken Michelson
+      1 Kengo Nishino
+      1 Kelley Hall
+      1 Keki B. Irani
+      1 Kees A. Vissers
+      1 K. Basu
+      1 Kazuo Horio
+      1 Kazuhiko Takase
+      1 Kaushik Rajan
+      1 Katsuhiro Yamazaki
+      1 Kathryn Russell
+      1 Kathryn E. Gray
+      1 Katherine E. Coons
+      1 Karthik Sundaramoorthy
+      1 Karthick Rajamani
+      1 Karl M. Guttag
+      1 Karl Lew
+      1 Karl Courtel
+      1 Karel Driesen
+      1 Kapil Vaswani
+      1 Kapil Anand
+      1 Kamran Malik
+      1 Kai Wang
+      1 Kai Hwang
+      1 Kaige Yan
+      1 Jyoti Tripathi
+      1 J. William Atwood
+      1 J. Vignes
+      1 Justin Hensley
+      1 Justin Emile Gottschlich
+      1 Jun Nakano
+      1 Jun Liu
+      1 Jungwoo Ha
+      1 Jung-Sik Kim
+      1 Jungrae Kim
+      1 Jung Ho Ahn
+      1 Julio Sahuquillo
+      1 Juha-Matti Heimonen
+      1 Juan L. Arag&#243;n
+      1 J. Stan Cox
+      1 J. Scott Miller
+      1 J. R. Douglas
+      1 J. Ramanujam
+      1 Joydeep Ray
+      1 Josep-Lluis Larriba-Pey
+      1 Joseph Varghese
+      1 Joseph R. Fisher
+      1 Jose Flich
+      1 Jos&#233; M. Llaber&#237;a
+      1 Jos&#233; A. Tierno
+      1 Jos&#233; A. B. Fortes
+      1 Jorge Garc&#237;a-Vidal
+      1 Jorge Francisco Martinez Carballido
+      1 Jordi Tubella
+      1 Jordi Roca
+      1 Joonsoo Kim
+      1 Joo Hwan Lee
+      1 Jon Stephan
+      1 Jongse Park
+      1 Jongmoo Choi
+      1 Jongmin Lee
+      1 Jongman Kim
+      1 Jonathan Valamehr
+      1 Jonathan Thornburg
+      1 Jonathan S. Blau
+      1 Jonathan P. Vogel
+      1 Jonathan Chang
+      1 Jonathan Beaumont
+      1 Jonathan Balkind
+      1 Jonathan Adams
+      1 John Wilkes
+      1 John W. C. Fu
+      1 John W. Bockhaus
+      1 John Wade Ulrich
+      1 John Tartar
+      1 John S. Seng
+      1 John R. Gurd
+      1 John P. Karidis
+      1 John M. Hemphill
+      1 John Matthews
+      1 John Kloosterman
+      1 John Kershaw
+      1 John Kalamatianos
+      1 John K. Ahlstrom
+      1 John Gyllenhall
+      1 John Gill
+      1 John F. McDonald
+      1 John F. Kolen
+      1 John D. Laughlin
+      1 John DeVale
+      1 John C. Murtha
+      1 John B. Carter
+      1 Johnathan Alsop
+      1 John Arends
+      1 John A. Nestor
+      1 Johan Janssen
+      1 Joel Goldberg
+      1 Joel F. Bartlett
+      1 Joan Sorribes
+      1 J. M. Foster
+      1 J. L. Wilkes
+      1 J. Janardhan
+      1 Ji Yun Kim
+      1 Jiyun Jeong
+      1 Jiwu Shu
+      1 Jiwei Liu
+      1 Jisheng Zhao
+      1 Jin W. Soh
+      1 Jinsuo Zhang
+      1 Jinsuk Chung
+      1 Jin Ouyang
+      1 Jin Lee
+      1 Jing Xin
+      1 Jingling Yuan
+      1 Jinglei Ren
+      1 Jinchun Kim
+      1 Jim Pierce
+      1 Jim Norris
+      1 Jill Miller
+      1 Jih-Kwon Peir
+      1 Jie Yu
+      1 Jie S. Hu
+      1 Jie Lv
+      1 Jie Fan
+      1 Jie Chen
+      1 Jichuan Chang
+      1 Jia Wang
+      1 Jiaqi Zhang
+      1 Jianwei Chen
+      1 Jian Li
+      1 Jiang Lin
+      1 Jia Di
+      1 J. H. Jacobs
+      1 J. H. Chang
+      1 J. Fredrick Nixon
+      1 J. F. McDonald
+      1 Jesung Kim
+      1 Jesse Zhixi Fang
+      1 Jesse G. Beu
+      1 Jesse Fang
+      1 Jesse Elwell
+      1 Jes&#250;s Labarta
+      1 Jerry Huck
+      1 J. Eric Roskos
+      1 Jen-Cheng Huang
+      1 J. Eldridge
+      1 Jeff Scott
+      1 Jeffrey R. Diamond
+      1 Jeffrey Dean
+      1 Jeffrey C. Becker
+      1 Jeff Gee
+      1 Jeffery A. Schmidt
+      1 Jeffery A. Brown
+      1 Jed Marti
+      1 Jedidiah R. Crandall
+      1 Jebediah Keefe
+      1 Jean-Yves Bouguet
+      1 Jean Suchard
+      1 Jean-Paul van Itegem
+      1 Jean-Francois Collard
+      1 J. Demarteau
+      1 J. C. Demco
+      1 Jayneel Gandhi
+      1 Jay Estabrook
+      1 Jayesh Gaur
+      1 Jay Bharadwaj
+      1 Jay B. Brockman
+      1 Jayaprakash Pisharath
+      1 Jayanth Srinivasan
+      1 Jayanth Gummaraju
+      1 Javier Verd&#250;
+      1 Javier Carretero
+      1 Jason Oberg
+      1 Jason Jong Kyu Park
+      1 Jason Cong
+      1 Jan-Willem van de Waerdt
+      1 Jan van Lunteren
+      1 Jan Prins
+      1 Jan H. M. Korst
+      1 Janghaeng Lee
+      1 Janet Hauser
+      1 Janak H. Patel
+      1 James R. Kleinsteiber
+      1 James R. Goodman
+      1 James O. Hamblen
+      1 James Nash
+      1 James M. Reuter
+      1 James Laudon
+      1 James E. Wilson
+      1 James E. Sustman
+      1 James E. Sicolo
+      1 James E. Hicks
+      1 James E. Bennett
+      1 James Dinan
+      1 James D. Balfour
+      1 James A. Woodward
+      1 James A. Howard
+      1 Jaisook Landauer
+      1 Jahangir Hasan
+      1 Jagannath Premkumar
+      1 Jae-Woong Chung
+      1 Jae-Woo Lee
+      1 Jaekyu Lee
+      1 Jaehyung Ahn
+      1 Jacob Nelson
+      1 Jack W. Davidson
+      1 Jack S. Walicki
+      1 Jack N. Fenner
+      1 Jack L. Lo
+      1 Jack K. Wolf
+      1 Ja Chun Ku
+      1 J. A. Chandross
+      1 Jacek Leszczylowski
+      1 J&#225;n Vesel&#253;
+      1 Ivan Sham
+      1 Ivan Bukreyev
+      1 Israel Koren
+      1 Ismail Kadayif
+      1 Isidro Gonzalez
+      1 Isidoros Sideris
+      1 Ioana Baldini
+      1 Ing-Jer Huang
+      1 Inderpreet Singh
+      1 Ilya Wagner
+      1 Ilya Ganusov
+      1 Ilhyun Kim
+      1 Ikuo Takeuchi
+      1 Ichiro Yamaura
+      1 Ian Shaeffer
+      1 Hyunjoon Park
+      1 Hyunjin Lee
+      1 Hyungjun Kim
+      1 HyoukJoong Lee
+      1 Hyogun Lee
+      1 Hwa C. Torng
+      1 H. V. Jagadish
+      1 Hung-Chang Lee
+      1 Huimin Cui
+      1 Hugo Krawczyk
+      1 Hugo De Man
+      1 Hubert Nueckel
+      1 Hsiang-Yun Cheng
+      1 H. P. R&#246;hrs
+      1 Howard David
+      1 Howard Chen
+      1 Houssam A. Halabi
+      1 Horst Kaestner
+      1 Hongzhou Zhao
+      1 Hongzhong Zheng
+      1 Hongyi Xin
+      1 Hongtao Zhong
+      1 Hong Jiang
+      1 Hiroshi Minakawa
+      1 Hiroshi Hagiwara
+      1 Hiroshi G. Okuno
+      1 H. H. Chao
+      1 H. Fatih Ugurdag
+      1 Herman Schmit
+      1 Herb Schwetman
+      1 Henry M. Levy
+      1 Henry G. Baker Jr.
+      1 Heng Liao
+      1 Helmut Painke
+      1 Helmut E. Maier
+      1 Heiko Schr&#246;der
+      1 Hassan M. G. Wassel
+      1 Harvey G. Cragon
+      1 Hartmut Feuerhahn
+      1 Harshad Kasture
+      1 Harry J. Saal
+      1 Harry Dwyer
+      1 Harold W. Cain
+      1 Harold Reksten
+      1 Haris Lekatsas
+      1 Harish Patil
+      1 Hari Kannan
+      1 Hari Angepat
+      1 Hardik Sharma
+      1 Harald Eri
+      1 Haofan Yang
+      1 Hany E. Ramadan
+      1 Hans Van Antwerpen
+      1 Han Park
+      1 Hanoch Brafman
+      1 Hanhwi Jang
+      1 Hamza Bin Sohail
+      1 Hammad K. Azzam
+      1 Hai Zhou
+      1 Hai Li
+      1 Hai Helen Li
+      1 Haigeng Wang
+      1 Haibo Chen
+      1 Gyungho Lee
+      1 Gwangsun Kim
+      1 Gwangmu Lee
+      1 Guy G. Boulaye
+      1 Guru Venkataramani
+      1 Gurhan Kucuk
+      1 Guowei Zhang
+      1 Guoping Long
+      1 Guido Araujo
+      1 Guangyu Chen
+      1 Grigori Fursin
+      1 Gregory K. Chen
+      1 Gregory A. Muthler
+      1 Greg Malysa
+      1 Greeshma Yellareddy
+      1 G. P. Jones
+      1 Gordon Matheson
+      1 Gordon C. Bell
+      1 Gokul Subramanian Ravi
+      1 Gokul B. Kandiraju
+      1 G. N. Reddy
+      1 G. M. Foujoulat
+      1 Glen S. Miranker
+      1 Glenn N. Caplin
+      1 Giora Biran
+      1 Gilles Mouchard
+      1 Gilbert R. Berglass
+      1 Gilberto Contreras
+      1 G. Filippi
+      1 Gert D&#246;hmen
+      1 Gerolf Hoflehner
+      1 Gerhard Zimmermann
+      1 Gerben Essink
+      1 Gerard Salem
+      1 Georgios Keramidas
+      1 George Z. N. Cai
+      1 George Z. Chrysos
+      1 George W. Cox
+      1 George Varghese
+      1 George R. Trimble Jr.
+      1 George Michelogiannakis
+      1 George F. Coulouris
+      1 George E. Brown
+      1 George Chrysos
+      1 George B. Leeman Jr.
+      1 George A. Reis
+      1 Geoffrey Blake
+      1 Gearold R. Johnson
+      1 Gearold Johnson
+      1 Gautam B. Singh
+      1 Gautam Bhatnagar
+      1 Gary Zibrat
+      1 Gary William Grewal
+      1 Gary Staas
+      1 Gary R. Burke
+      1 Gary E. Kopec
+      1 Gary Davidian
+      1 Gary Catlin
+      1 Gang Chen
+      1 Ganesh Venkatesh
+      1 Gai Liu
+      1 Gagan Gupta
+      1 Gabriella Pasi
+      1 Gabriel Kerneis
+      1 Furat Afram
+      1 Fritz Previlon
+      1 Frederik Vermeulen
+      1 Freddy Gabbay
+      1 Fred C. Chow
+      1 Fred A. Bower
+      1 Franz Franchetti
+      1 Frank Pehrson
+      1 Franco Gasperoni
+      1 Francky Catthoor
+      1 Francis Tseng
+      1 Francisco Tirado
+      1 Francesco Spadini
+      1 Fran&#231;ois de Ferri&#232;re
+      1 Forest Baskett
+      1 Forbes J. Burkowski
+      1 F. Lam
+      1 F. Greco
+      1 Fernando Vallejo
+      1 Fernando Castro
+      1 Fergus K. Fung
+      1 Feng Liu
+      1 Felipe M. G. Fran&#231;a
+      1 Felipe Cabarcas
+      1 Fei Guo
+      1 Fayez Mohamood
+      1 Farzad Khorasani
+      1 Farhad Mavaddat
+      1 Fangfei Liu
+      1 Faissal M. Sleiman
+      1 Fadi N. Sibai
+      1 Evelyn Duesterwald
+      1 Eva Piccininni
+      1 Evan Tick
+      1 Eugene Gorbatov
+      1 Ethan Schuchman
+      1 E. T. Barron
+      1 E. Sanchez
+      1 Erik Nystrom
+      1 Erik Jacobsen
+      1 Erika Gunadi
+      1 Eric Toullec
+      1 Eric Sprangle
+      1 Eric S. Chung
+      1 Eric Schnarr
+      1 Eric Matthews
+      1 Eric Larson
+      1 Eric Chun
+      1 Eric Borch
+      1 Erdem Aktas
+      1 Eran Socher
+      1 Enrique Vallejo
+      1 Enrique Fern&#225;ndez
+      1 Enrique de Lucas
+      1 Enrico C. Grillo
+      1 Enric Musoll
+      1 Emre Kultursay
+      1 Emilio Luque
+      1 Emile Hsieh
+      1 Emile H. L. Aarts
+      1 Elizabeth Shanahan
+      1 Eli Chiprout
+      1 Elham Safi
+      1 Eitan Yaakobi
+      1 Efraim Rotem
+      1 Edward M. Carter
+      1 Edward Brekelbaum
+      1 Eduardo Sanchez
+      1 Edil S. T. Fernandes
+      1 Eby G. Friedman
+      1 E. Binaghi
+      1 Earl W. Reigel
+      1 Earl E. Swartzlander Jr.
+      1 Dyer Rol&#225;n
+      1 D. Wong
+      1 Dwaine E. Clarke
+      1 D. Scott Wills
+      1 D. Sarchet
+      1 D. Roberts
+      1 Douglas S. Kerr
+      1 Douglas J. Rideout
+      1 Dono Van-Mierop
+      1 Don McCaule
+      1 Dongyuan Zhan
+      1 Dong-yuan Chen
+      1 Dongyoon Lee
+      1 Dongup Kwon
+      1 Dong Li
+      1 Dongkook Park
+      1 Dong Hyuk Woo
+      1 Donghyuk Lee
+      1 Donald W. Nelson
+      1 Donald S. Fussell
+      1 Donald Newell
+      1 Donald Gustafson
+      1 Dominic P. Mulligan
+      1 Doe Hyun Yoon
+      1 Dmitry Ponomarev
+      1 Dmitry Evtyushkin
+      1 D. Liu
+      1 Djordje Jevdjic
+      1 Djahida Smati
+      1 Dionisios N. Pnevmatikatos
+      1 Ding-Kai Chen
+      1 Dinesh Amirtharaj
+      1 Dimitris K. Fotakis
+      1 Dimitris Gizopoulos
+      1 Diego Puppin
+      1 Diederik Verkest
+      1 Dibakar Gope
+      1 Diana Keen
+      1 Diana Guttman
+      1 Diana Franklin
+      1 Dharma P. Agrawal
+      1 D. F. Goessling
+      1 Derek Lockhart
+      1 Derek J. DeVries
+      1 Derek Chiou
+      1 Depei Qian
+      1 Dennis Sylvester
+      1 Dennis Abts
+      1 Deniz Balkan
+      1 Deepinder P. Sidhu
+      1 Dechang Gu
+      1 Debjit Sinha
+      1 Dean Jacobs
+      1 D. B. Sarma
+      1 Daya Shanker Khudia
+      1 Davoud Anoushe Jamshidi
+      1 David Wong
+      1 David W. Oehmke
+      1 David W. Goodwin
+      1 David W. Archer
+      1 David T. Wang
+      1 David N. Armstrong
+      1 David M. Proulx
+      1 David M. Gillies
+      1 David M. Gallagher
+      1 David Meisner
+      1 David M. Bell
+      1 David Lo
+      1 David L. Keating
+      1 David L&#243;pez
+      1 David K. Tam
+      1 David Knapp
+      1 David K. Hsiao
+      1 David K. DuBose
+      1 David Kadjo
+      1 David J. Palframan
+      1 David I. Epstein
+      1 David Hunnicutt
+      1 David Hinshaw
+      1 David Hiniker
+      1 David F. Snelling
+      1 David E. Shaw
+      1 Davide B. Bartolini
+      1 David Duarte
+      1 David D. Lynch
+      1 David Crowe
+      1 David Cohen
+      1 David C. Lin
+      1 David Christie
+      1 David Carl Karlgaard
+      1 David Binger
+      1 David A. Roberts
+      1 David A. Ramos
+      1 David A. Penry
+      1 David A. Greene
+      1 David A. Dunn
+      1 David A. Berson
+      1 Dave Johannsen
+      1 Darshan D. Thaker
+      1 Darrell Whitley
+      1 Darrell L. Wilburn
+      1 Darrel Eric Johnson
+      1 Darin B. Johnson
+      1 Danny D. Cornett
+      1 Danny Cohen
+      1 Dani Voitsechov
+      1 Daniel Y. Deng
+      1 Daniel Windheiser
+      1 Daniel U. Becker
+      1 Daniel S. McFarlin
+      1 Daniel R. Johnson
+      1 Daniel Richins
+      1 Daniel Pantuso
+      1 Daniel Molka
+      1 Daniel Litaize
+      1 Daniel Hackenberg
+      1 Daniel Gracia P&#233;rez
+      1 Daniel E. Atkins
+      1 Daniel D. Ben-Dayan Rubin
+      1 Daniel Chaver
+      1 Dan H. Barnes
+      1 Dan Grossman
+      1 Dan Gibson
+      1 Dan F. Greiner
+      1 Dan Ernst
+      1 Dan Connors
+      1 Dana Vantrease
+      1 Dam Sunwoo
+      1 Damien Hardy
+      1 Dali Zhao
+      1 Cyrus Bazeghi
+      1 C. Scott Ananian
+      1 C. S. Arnold
+      1 Csaba Andras Moritz
+      1 Cristian Perfumo
+      1 Cris Koutsougeras
+      1 Craig Chambers
+      1 Conrad H. Ziesler
+      1 Cong Yan
+      1 Colin Blundell
+      1 C. Mani Krishna
+      1 Clinton Parker
+      1 Clint Lestourgeon
+      1 Clifford L. Hall
+      1 Clair Webb
+      1 Cindy Norris
+      1 Ciji Isen
+      1 Chyuan-Yow Wu
+      1 Chyi-Chang Miao
+      1 C. Hwa Chang
+      1 Chunyue Liu
+      1 Chun-Luh Lee
+      1 Chunho Lee
+      1 Chung-Ta King
+      1 Chung-Hsiang Lin
+      1 Chung-Ho Chen
+      1 Chuan-lin Wu
+      1 Chris Yen
+      1 Christos Kozyrakis
+      1 Christos A. Papachriston
+      1 Christoph Hagleitner
+      1 Christopher Vickery
+      1 Christopher Torng
+      1 Christopher Rowen
+      1 Christopher Pulte
+      1 Christopher Nitta
+      1 Christopher J. Rossbach
+      1 Christopher I. Rodrigues
+      1 Christopher D. Glaeser
+      1 Christoforos E. Kozyrakis
+      1 Christine Eisenbeis
+      1 Christian Jacobi
+      1 Christian Iseli
+      1 Chris McKinsey
+      1 Chris Lattner
+      1 Chris J. Thompson
+      1 Chris J. Newburn
+      1 Chong-liang Ooi
+      1 Chinmay Eishan Kulkarni
+      1 Ching-Long Su
+      1 Chihong Zhang
+      1 Chien-Ming Chen
+      1 Chiaki Ishikawa
+      1 Chia-Chen Chou
+      1 Chen Tian
+      1 Chengyong Wu
+      1 Cheng-Tsung Hwang
+      1 Cheng-Hsueh A. Hsieh
+      1 Chein Chen
+      1 Charles W. Rose
+      1 Charles W. Flink II
+      1 Charles W. Bridges
+      1 Charles R. Moore
+      1 Charles R. Lefurgy
+      1 Charles N. Fischer
+      1 Charles M. Chu
+      1 Charles Lo
+      1 Charles J. Holland
+      1 Charles H. Kaman
+      1 Chao Zhang
+      1 Chao Li
+      1 Changqing Fu
+      1 Chang Hyun Park
+      1 Changhee Jung
+      1 Chang-Burm Cho
+      1 Chandra Chekuri
+      1 Chaitali Chakrabarti
+      1 C. Edward Armbruster Jr.
+      1 Carl Ponder
+      1 Carlos Gonz&#225;lez
+      1 Carlos Basto
+      1 Carl L. Olds
+      1 Carl J. Beckmann
+      1 Carl A. Waldspurger
+      1 Can Hankendi
+      1 Byung-Kwon Chung
+      1 Byn Choi
+      1 B. W. Reynolds
+      1 Burzin A. Patel
+      1 Bruce R. Childers
+      1 Bruce M. Adcock
+      1 Brian T. Gold
+      1 Brian Slechta
+      1 Brian Rogers
+      1 Brian P. Boesch
+      1 Brian Lucas
+      1 Brian L. Plomondon
+      1 Brian L. Evans
+      1 Brian Hirano
+      1 Brian Gaeke
+      1 Brian Forbes
+      1 Brian Fahs
+      1 Brian A. Fields
+      1 Bratin Saha
+      1 Brandon Lucia
+      1 Bradford W. Wade
+      1 Bo Zhao
+      1 Bo Wu
+      1 Bo Su
+      1 Bo Huang
+      1 Bob L. Janssens
+      1 Bob Davies
+      1 Bobbie Othmer
+      1 Blaise Gassend
+      1 Bishara Shomar
+      1 Binyu Zang
+      1 Bill Zhong
+      1 Bill Paseman
+      1 Bill Moyer
+      1 Bharadwaj Amrutur
+      1 Bhanu Shankar
+      1 Bhabani P. Sinha
+      1 Beverly Gocal
+      1 Beth Levy
+      1 Bertrand A. Maher
+      1 Berkin Ilbeyi
+      1 Berkin Akin
+      1 Berkin &#214;zisikyilmaz
+      1 Beno&#238;t Dupont de Dinechin
+      1 Benjamin Sahelices
+      1 Benjamin Ashbaugh
+      1 Ben-Chung Cheng
+      1 Ben A. Laws Jr.
+      1 Behnam Robatmili
+      1 B. B. Madan
+      1 Bassel Soudan
+      1 Basilio B. Fraguela
+      1 Barry M. Pangrle
+      1 Balas K. Natarajan
+      1 Balajee Vamanan
+      1 B&#252;lent Abali
+      1 Ayse Kivilcim Coskun
+      1 Avinoam N. Eden
+      1 Avinash Sodani
+      1 Avinash Karanth Kodi
+      1 Augusto Vega
+      1 Asit K. Mishra
+      1 Ashwini K. Nanda
+      1 Ashutosh S. Dhodapkar
+      1 Ashok V. Krishnamoorthy
+      1 Ashok Singhal
+      1 Arvind K. Sujeeth
+      1 Arvind Krishnaswamy
+      1 Arup De
+      1 Arun Raman
+      1 Arun Raghavan
+      1 Arun A. Nair
+      1 Artur Klauser
+      1 Artour Stoutchinin
+      1 Arthur Perais
+      1 Arthur G. Olbert
+      1 Arslan Zulfiqar
+      1 Arseniy Vitkovskiy
+      1 Arrvindh Shriraman
+      1 Arpit Joshi
+      1 Arnab Ghosh
+      1 Arindam Mallik
+      1 Arijit Biswas
+      1 Aqeel Mahesri
+      1 A. Proserpio
+      1 Apoorv Srivastava
+      1 A. Parker
+      1 Anne Rogers
+      1 Anne R. Clayton
+      1 Anne M. Holler
+      1 Ann Ammerman
+      1 Anna Gentile
+      1 Aniruddha N. Udipi
+      1 Angelos Arelakis
+      1 Aneet Chopra
+      1 Andrzej Blikle
+      1 Andrew W. Nagle
+      1 Andrew W. Cross
+      1 Andrew Sun
+      1 Andrew S. Huang
+      1 Andrew Seawright
+      1 Andrew Schwerin
+      1 Andrew Kerr
+      1 Andrew Hay
+      1 Andrew Chang
+      1 Andrew Brownsword
+      1 Andrew A. Chien
+      1 Andreas Prodromou
+      1 Andreas Panteli
+      1 Andreas Krall
+      1 Andrea Capitanio
+      1 Andr&#233; Bernardy
+      1 Ana Ripoll
+      1 Anand Shukla
+      1 Anand Raghunathan
+      1 Anand Karunanidhi
+      1 Amiya Nayak
+      1 Amit Agarwal
+      1 Amitabh Srivastava
+      1 Amir Yazdanbakhsh
+      1 Amir Hormati
+      1 Amirali Shayan
+      1 Amirali Boroumand
+      1 Amirali Baniasadi
+      1 Amer Diwan
+      1 Alynn Klassen
+      1 Alvin S. Cooperband
+      1 Alok Garg
+      1 Allan Hartstein
+      1 Allan D. Knies
+      1 Ali Shafiee
+      1 Ali Saidi
+      1 Ali G. Saidi
+      1 Alex Skaletsky
+      1 Alex Pajuelo
+      1 Alex Orailoglu
+      1 Alex Chanin
+      1 Alexandre Farcy
+      1 Alexander Rucker
+      1 Alexander Aiken
+      1 Alessandra Costa
+      1 Alenka G. Zajic
+      1 Alejandro Valero
+      1 Alejandro Rico
+      1 Albert Meixner
+      1 Alastair Reid
+      1 Alan J. Drake
+      1 Alan Eustace
+      1 Alan B. Salisbury
+      1 Alain Ketterlin
+      1 Akihiko Yamada
+      1 Akida Wu
+      1 Akhila Gundu
+      1 Akbar Sharifi
+      1 Akanksha Jain
+      1 A. J. van de Goor
+      1 Ahmed Youssef
+      1 Ahmed Louri
+      1 Ahmed H. Abdel-Gawad
+      1 Agustin Fern&#225;ndez
+      1 A. E. Werbrouck
+      1 Adwait Jog
+      1 Adri&#224; Armejach
+      1 Adi Fuchs
+      1 Adam Kaplan
+      1 A. C. Schowe
+      1 Abhishek Das
+      1 Abhishek A. Sinkar
+      1 Abhisek Pan
+      1 Abhinav Das
+      1 Abhayendra Singh
+      1 Abhaya Asthana
+      1 Abelardo L&#243;pez-Lagunas
+      1 A. Bailas
+      1 Aasheesh Kolli
