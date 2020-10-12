@@ -2,6 +2,7 @@ import bibtexparser
 import re
 import glob, os
 
+highlightNames = ["David I. August"]
 os.chdir("./")
 fameDB = {}
 fameHTML = "fame.html"
@@ -97,13 +98,13 @@ for author in authorSortedByTotalPubs:
   #print author, fameDB[author]
   if fameDB[author]['total'] < 5:
       break
-  if author == "David I. August":
+  if author in highlightNames:
     row = '<tr style="font-weight:bold">'
   else:
     row = "<tr>"
   row += "<td>" + str(fameDB[author]['total']) + "</td>"
 
-  if author == "David I. August":
+  if author == highlightNames:
     row += '<td><a class="anchor" id="liberty"></a>'+ author + "</td>"
   else:
     row += "<td>" + author + "</td>"
