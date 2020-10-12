@@ -9,3 +9,7 @@ for i in ASPLOS CGO HPCA ISCA MICRO PACT PLDI POPL DSN; do
     python generateFameHTML.py;
     cd ..;
 done
+
+for i in ASPLOS CGO HPCA ISCA MICRO PACT PLDI POPL DSN; do
+    cp $i/fame.html webpage/$i.html;
+done
